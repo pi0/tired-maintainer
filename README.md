@@ -16,9 +16,9 @@ Above, are the responsibilities of the maintainers of course but we have a limit
 
 ## Context Switch is EXPENSIVE (for humans and also machines)
 
-I suggest reading the ["Managing the chaos of context switching"](https://leaddev.com/process/managing-chaos-context-switching) article by [Addy Osmani](**https://twitter.com/addyosmani) to grasp some context.
+I suggest reading [managing the chaos of context switching](https://leaddev.com/process/managing-chaos-context-switching) article by [Addy Osmani](**https://twitter.com/addyosmani) to grasp some context.
 
-Sometimes you might think answering or fixing something takes only a couple of minutes. I understand and want to answer you as soon as possible but this cost me significantly and kill my daily productivity and focus if have to do this for your request. Everyone is as important as me and I need to prioritize.
+Sometimes you might think answering or fixing something takes only a couple of minutes. I understand and want to answer you as soon as possible but this cost me significantly and kills my daily productivity and focus if have to do this for your request. Everyone's needs are important to me and I need to prioritize based on common sense and real merits.
 
 ## This PR looks good to me (or tell me what to do)
 
