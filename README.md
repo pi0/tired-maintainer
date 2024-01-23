@@ -32,7 +32,7 @@ You or someone else might have already gone ahead and attempted to propose an en
 
 In all cases, please BE PATIENT. Be sure that maintainers love nothing more than triaging PRs and moving them forward. Please understand that making decisions in a project is not as easy as you might think. Most of the time there is more context that you might be less aware of.
 
-Finally, If something is critical for you and you believe you can accept these changes at your / your user's risk, you can use solutions like [package-patch](https://www.npmjs.com/package/patch-package) to manually apply them.
+Finally, If something is critical for you and you believe you can accept these changes at your / your user's risk, you can use solutions like [patch-package](https://www.npmjs.com/package/patch-package) to manually apply them.
 
 ## I want to contribute tell me what to do
 
